@@ -1,0 +1,21 @@
+.test,th,td,tr{
+
+    border: 2px solid black;
+    margin-left: 600px;
+}
+.dropcolor{
+    background-color: black;
+    color:white;
+    width: 200px;
+    height: 50px;
+  margin-left: 600px;
+}
+.navbar{
+    display:inline-flex
+}
+.app{
+    background-color: rgb(141, 141, 141);
+    color: black;
+    padding-left: 500px;
+    height: 50px;
+}

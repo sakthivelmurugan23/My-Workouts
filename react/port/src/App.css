@@ -1,0 +1,21 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-section,
+.right-section {
+  display: flex;
+  justify-content: flex-start; /* You can change this depending on the alignment you want */
+  align-items: center;
+}
+
+.navinner {
+  display: flex;
+  gap: 15px; /* Adds spacing between the links */
+}
+
+button {
+  margin-left: 20px; /* Spacing between the last link and the button */
+}

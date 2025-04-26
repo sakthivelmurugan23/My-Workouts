@@ -1,0 +1,27 @@
+
+
+
+
+.navinner{
+ 
+    background-color: rgb(42, 112, 165);
+    color: white;
+    display: flex;
+}
+.navinner a{
+    color: rgb(255, 255, 255);
+  
+}
+.navtext{
+    margin-left: 60%;
+    padding-top: 15px;
+}
+.navtext a{
+    text-decoration: none;
+    padding:10px;
+    font-size: 20px;
+
+}
+.navLogo{
+    margin-left: 15px;
+}

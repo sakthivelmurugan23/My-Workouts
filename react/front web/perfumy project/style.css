@@ -1,0 +1,61 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+nav{
+    background-color: rgb(95, 85, 177);
+    color: white;
+    padding: 20px;
+    border: 10px;border-color: darkslateblue;
+    border-style:double;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{margin-left: 60%;}
+
+li{color: gray;
+   cursor: pointer;
+}
+
+li:hover{
+    color:whitesmoke
+}
+
+input{width: 60%;
+      padding: 15px;
+      margin: 50px;
+      border: 1px;border-color: black;border-style: inset;
+}
+.search{text-align: center;
+
+}
+
+.box{border-color: black;
+    border-width: 5px;
+    border-style:outset;
+    display: inline-block;
+    width: 300px;
+}
+
+.products{text-align: center;}
+.box:hover{ 
+    background-color: black;
+    color: aliceblue;
+}
+.about{text-align: center;
+        margin: 40PX;
+       
+}
+p{padding-top: 20px;}    
+
+.contact{text-align: center;
+          background-color: rgb(95, 85, 177);
+          color: white;
+}
+
+.profile{text-align: center;
+        margin: 50px;
+
+}
